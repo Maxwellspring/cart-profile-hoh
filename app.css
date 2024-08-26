@@ -269,7 +269,7 @@
   .stats {
       position: absolute;
       z-index: 2;
-      background: #157175;
+      background: #63c6d7;
       pointer-events: none;
       height: 400px;
       transition: all 1s ease-in-out;
